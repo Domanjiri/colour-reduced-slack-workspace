@@ -1,6 +1,6 @@
 # Colour-reduced Slack workspace
 
-This code should be imported into a `userscript manager` extension (Have been tested with Tampermonkey on Mozilla Firefox and Google Chrome).
+This code should be imported into a `userscript manager` extension (Has been tested with Tampermonkey on Mozilla Firefox and Google Chrome).
 
 
 # License
